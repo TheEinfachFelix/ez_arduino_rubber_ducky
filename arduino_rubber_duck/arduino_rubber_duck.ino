@@ -1,5 +1,7 @@
 //This is a very simple rubber ducky on an Arduino
 
+//This is an educational tool for private pc automation. use at own risk, only on your pc!
+
 //Warning This Script needs an Arduino that can use "Keyboard.h" like the Micro or Pro micro
 
 //Here are general information about the lib like Functions
